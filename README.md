@@ -34,6 +34,7 @@ This Flutter application serves two distinct user roles:
       </td>
        <td align="center">
         <b>Product Details</b><br>
+        <b>(no image because storage bucket already deleted)</b><br>
         <img src="https://github.com/user-attachments/assets/cae6628e-8523-4a16-9501-d971ea8b78b4" width="300">
       </td>  
     </tr>
